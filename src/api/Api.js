@@ -66,7 +66,8 @@ export const proxiedUrlFor = url => {
 };
 
 export const scaledThumbnailUrlFor = (url, width, height) => {
-  if (configs.RETICULUM_SERVER.includes("hubs.local") && url.includes("hubs.local")) {
+  //if (configs.RETICULUM_SERVER.includes("hubs.local") && url.includes("hubs.local")) {
+  if (configs.RETICULUM_SERVER.includes("annyxr.com") && url.includes("annyxr.com")) {
     return url;
   }
 

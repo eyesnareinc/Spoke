@@ -1,5 +1,5 @@
-const PRIVACY = "https://www.mozilla.org/en-US/privacy/hubs/";
-const TERMS = "https://www.mozilla.org/en-US/about/legal/terms/hubs/";
+const PRIVACY = "https://anny.media/wpautoterms/privacy-policy/";
+const TERMS = "https://anny.media/wpautoterms/terms-and-conditions/";
 
 module.exports = {
   PRIVACY,
