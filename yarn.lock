@@ -6527,13 +6527,6 @@ globjoin@^0.1.4:
   resolved "https://registry.yarnpkg.com/globjoin/-/globjoin-0.1.4.tgz#2f4494ac8919e3767c5cbb691e9f463324285d43"
   integrity sha1-L0SUrIkZ43Z8XLtpHp9GMyQoXUM=
 
-"gltf-webpack-loader@https://github.com/MozillaReality/gltf-webpack-loader.git#fix/relative-and-output-paths":
-  version "1.0.6"
-  resolved "https://github.com/MozillaReality/gltf-webpack-loader.git#4e562e511da981c14f25f87a28f825194035cdca"
-  dependencies:
-    loader-utils "^1.2.3"
-    schema-utils "^1.0.0"
-
 gonzales-pe@^4.2.3:
   version "4.2.4"
   resolved "https://registry.yarnpkg.com/gonzales-pe/-/gonzales-pe-4.2.4.tgz#356ae36a312c46fe0f1026dd6cb539039f8500d2"
@@ -13046,9 +13039,9 @@ three-mesh-bvh@^0.1.4:
   resolved "https://registry.yarnpkg.com/three-mesh-bvh/-/three-mesh-bvh-0.1.4.tgz#c392bcb9318224e0422aa939e855ca0ee45a831a"
   integrity sha512-RW16Adn4L7Z7aOWlkTPDAgIYyQZnI0izTERPxYF7cLb/AmExdm2fk6cXQCGzj5RkI8872KzlAKxZKMv/3LT/Lw==
 
-"three@https://github.com/MozillaReality/three.js.git#0f9b0024725f0dd917caa54c2934a4ba1fc12c4f":
+"three@https://github.com/eyesnareinc/three.js.git#0f9b0024725f0dd917caa54c2934a4ba1fc12c4f":
   version "0.105.1"
-  resolved "https://github.com/MozillaReality/three.js.git#0f9b0024725f0dd917caa54c2934a4ba1fc12c4f"
+  resolved "https://github.com/eyesnareinc/three.js.git#0f9b0024725f0dd917caa54c2934a4ba1fc12c4f"
 
 throttle-debounce@^2.1.0:
   version "2.1.0"
