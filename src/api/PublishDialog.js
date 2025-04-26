@@ -92,9 +92,9 @@ export default class PublishDialog extends Component {
         </FormField>
         <FormField inline>
           <label htmlFor="allowPromotion">
-            Allow {configs.isMoz() ? "Mozilla to " : ""}
+            Allow {configs.isMoz() ? "eyesnare inc to " : ""}
             <a
-              href="https://github.com/mozilla/Spoke/blob/master/PROMOTION.md"
+              href="https://github.com/eyesnareinc/Spoke/blob/master/PROMOTION.md"
               target="_blank"
               rel="noopener noreferrer"
             >
