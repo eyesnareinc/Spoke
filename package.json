@@ -102,7 +102,7 @@
     "recharts": "^1.8.5",
     "styled-components": "4.4.0",
     "styled-icons": "^8.4.2",
-    "three": "https://github.com/eyesnareinc/three.js.git#80840eb9f09595ad79376f47d040eb61bfe31916",
+    "three": "git+https://github.com/eyesnareinc/three.js.git#80840eb9f09595ad79376f47d040eb61bfe31916",
     "three-mesh-bvh": "^0.1.4",
     "troika-three-text": "^0.44.0",
     "url-toolkit": "^2.1.6",
